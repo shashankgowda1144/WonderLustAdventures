@@ -1,4 +1,6 @@
 # Wonderlustadventures
+It is a small web site page
+
 It is a travel and adventure platform, providing exciting guides and immersive experiences for thrill-seekers. This project demonstrates how to create a basic webpage using HTML and CSS.
 
 Project Overview
